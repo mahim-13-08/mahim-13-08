@@ -50,7 +50,7 @@ I'm continuously working on projects to strengthen my software engineering and i
 
 A university-focused secondhand marketplace with authentication, role-based access control, product listings, trust scoring, and transaction management.
 
-**Tech:** MERN, MongoDB, Prisma, JavaScript, AWS
+**Tech:** React.js, Node.js, Express.js, MongoDB
 
 🔗 [View Project]()
 
@@ -66,7 +66,7 @@ A research project exploring low-cost water-quality monitoring and machine learn
 
 A database-driven travel management system developed as part of my academic coursework.
 
-**Tech:** PHP • MySQL 
+**Tech:** PHP, MySQL, HTML, CSS, JavaScript
 
 🔗 [View Project]()
 
