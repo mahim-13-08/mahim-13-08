@@ -52,7 +52,7 @@ A university-focused secondhand marketplace with authentication, role-based acce
 
 **Tech:** React.js, Node.js, Express.js, MongoDB
 
-🔗 [View Project]()
+🔗 [View Project](https://github.com/mahim-13-08/University-Marketplace-for-Secondhand-Products)
 
 ### 🐟 IoT + Machine Learning for Fish Farms
 
